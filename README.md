@@ -1,2 +1,2 @@
-# Mujoco_Tutorials
-Tutorials to understand the codebase of mujoco
+# Mujoco for GSOC 2026
+
